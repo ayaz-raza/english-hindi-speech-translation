@@ -1,0 +1,13 @@
+torch
+openai-whisper
+transformers
+datasets
+sentencepiece
+sacrebleu
+accelerate
+gTTS
+gradio
+pandas
+numpy
+matplotlib
+tqdm
