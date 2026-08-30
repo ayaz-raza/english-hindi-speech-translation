@@ -26,3 +26,9 @@ Hindi Text
 gTTS
       ↓
 Hindi Speech
+```
+## Demo
+
+The system provides an interactive speech-to-speech translation interface:
+
+![English to Hindi Speech Translation Demo](./demo.png)
